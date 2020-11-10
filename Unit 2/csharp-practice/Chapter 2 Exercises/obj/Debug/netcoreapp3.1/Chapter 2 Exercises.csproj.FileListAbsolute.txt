@@ -1,0 +1,13 @@
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.exe
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.deps.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.runtimeconfig.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.runtimeconfig.dev.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Chapter 2 Exercises.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.csprojAssemblyReference.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.AssemblyInfoInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.AssemblyInfo.cs
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.csproj.CoreCompileInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Chapter 2 Exercises.genruntimeconfig.cache

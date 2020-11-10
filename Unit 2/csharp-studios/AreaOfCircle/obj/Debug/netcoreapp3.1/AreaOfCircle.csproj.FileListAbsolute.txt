@@ -1,0 +1,13 @@
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csprojAssemblyReference.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.genruntimeconfig.cache

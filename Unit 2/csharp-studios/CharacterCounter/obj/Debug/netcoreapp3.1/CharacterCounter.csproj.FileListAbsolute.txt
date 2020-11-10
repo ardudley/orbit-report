@@ -1,0 +1,13 @@
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.exe
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.deps.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.runtimeconfig.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.runtimeconfig.dev.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.csprojAssemblyReference.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.AssemblyInfoInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.AssemblyInfo.cs
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-studios\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.exe
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.deps.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.runtimeconfig.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.runtimeconfig.dev.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\bin\Debug\netcoreapp3.1\HelloAngela.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.csprojAssemblyReference.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.AssemblyInfoInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.AssemblyInfo.cs
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.csproj.CoreCompileInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\HelloAngela\obj\Debug\netcoreapp3.1\HelloAngela.genruntimeconfig.cache

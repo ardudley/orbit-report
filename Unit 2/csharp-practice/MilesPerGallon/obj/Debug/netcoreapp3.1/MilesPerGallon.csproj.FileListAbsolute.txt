@@ -1,0 +1,13 @@
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.exe
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.deps.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.dev.json
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csprojAssemblyReference.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfoInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfo.cs
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\18167\OneDrive\Documents\lc101\Unit 2\csharp-practice\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.genruntimeconfig.cache
